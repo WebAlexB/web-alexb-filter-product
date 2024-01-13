@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="25px" height="25px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 25 25"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:1.19;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_981956352">
+   <path class="fil0 str0" d="M12.5 21.6c-5.04,0 -9.13,-4.09 -9.13,-9.14 0,-3.61 2.1,-6.73 5.14,-8.21"/>
+   <path class="fil0 str0" d="M12.5 3.33c5.04,0 9.13,4.09 9.13,9.13 0,3.76 -2.27,6.99 -5.52,8.39"/>
+   <line class="fil0 str0" x1="12.23" y1="3.65" x2="15.85" y2= "0.6" />
+   <line class="fil0 str0" x1="12.46" y1="3.13" x2="15.55" y2= "6.72" />
+   <line class="fil0 str0" x1="12.95" y1="21.35" x2="9.33" y2= "24.4" />
+   <line class="fil0 str0" x1="12.73" y1="21.87" x2="9.64" y2= "18.28" />
+  </g>
+ </g>
+</svg>
